@@ -12,6 +12,7 @@ https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data?sele
 https://documenter.getpostman.com/view/10808728/SzS8rjbc
 API
 https://rapidapi.com/api-sports/api/covid-193/details
+https://api.covid19api.com/countries
 
 Visualizations/Screenshots:
 ![worldheatmap](images/worldheatmap.png)
