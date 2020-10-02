@@ -11,7 +11,7 @@ https://www.stats.govt.nz/assets/Uploads/Effects-of-COVID-19-on-trade/Effects-of
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data?select=covid_19_data.csv
 https://documenter.getpostman.com/view/10808728/SzS8rjbc
 API
-https://rapidapi.com/api-sports/api/covid-193/details
+https://api.covid19api.com/
 https://api.covid19api.com/countries
 
 Visualizations/Screenshots:
